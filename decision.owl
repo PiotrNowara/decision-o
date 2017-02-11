@@ -21,13 +21,13 @@
         <rdfs:comment xml:lang="en">This is the decision ontology (v.2). Let me know if you would like to participate in developing, testing or supporting this project.
 
 If you need help in using the Decision Ontology or the imported Requirement Ontology please send an email to: piotrnowara(at)gmail.com</rdfs:comment>
-        <rdfs:seeAlso xml:lang="en">An example: http://code.google.com/p/decision-ontology/wiki/DecisionOntologyExample</rdfs:seeAlso>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017-02-11 Piotr Nowara
 1) #has_criterion object property added (it was only present in the example file, probably ommited/removed earlier by mistake)
 
 2) Equivalent axiom for #Option
 
-3) Some minor annotations corrrections.</rdfs:comment>
+3) Some minor annotations corrections.</rdfs:comment>
+        <rdfs:seeAlso xml:lang="en">An example: http://code.google.com/p/decision-ontology/wiki/DecisionOntologyExample</rdfs:seeAlso>
         <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017_02_11_1</owl:versionInfo>
         <rdfs:comment xml:lang="en">Author: Piotr Nowara  (piotrnowara(at)gmail.com)</rdfs:comment>
     </owl:Ontology>
